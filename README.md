@@ -1,9 +1,11 @@
+# NAME : LINGAESHWAR K
+
 # MODULE-4
 Module 4 respository for lab
 
 ---
 
-1.### Program: Find the Minimum of Three Numbers
+# 1.Program: Find the Minimum of Three Numbers
 
 **Aim:**  
 To find and display the minimum of three numbers entered by the user using the conditional (ternary) operator.
@@ -40,10 +42,11 @@ int main()
 <img width="774" height="192" alt="image" src="https://github.com/user-attachments/assets/209cbde6-9bc5-4658-a402-9764c6030387" />
 
 **Result:**
+
 The program successfully determines and displays the smallest of the three numbers entered by the user.
 ---
 
-2.### Program: Temperature Classification
+# 2.Program: Temperature Classification
 
 **Aim:**  
 To classify the weather based on the temperature entered by the user and display an appropriate message.
@@ -91,11 +94,12 @@ int main()
 <img width="498" height="200" alt="image" src="https://github.com/user-attachments/assets/4ee36aaa-1c06-4df7-8e4d-3c9804c7e7cb" />
 
 **Result:**
+
 The program evaluates the entered temperature and displays a message describing the type of weather accordingly.
 ---
 
 
-3.### Program: Compare Two Strings
+# 3. Program: Compare Two Strings
 
 **Aim:**  
 To compare two strings entered by the user and determine whether they are the same or different.
@@ -164,11 +168,12 @@ int compare(char a[], char b[])
 <img width="570" height="201" alt="image" src="https://github.com/user-attachments/assets/c2a5de8b-7532-435d-b133-2c42bb4e522d" />
 
 **Result:**
+
 The program successfully compares the two input strings and displays whether they are the same or not.
 ---
 
 
-4.### Program: Count Spaces in a String
+# 4.Program: Count Spaces in a String
 
 **Aim:**  
 To count the number of words in a string entered by the user.
@@ -215,10 +220,11 @@ int main()
 <img width="535" height="154" alt="image" src="https://github.com/user-attachments/assets/21be4b92-8f50-4231-ac9b-ce540398c62b" />
 
 **Result:**
+
 The program counts and displays the total number of words in the entered string.
 ---
 
-5.### Program: Convert a String to Uppercase
+# 5.Program: Convert a String to Uppercase
 
 **Aim:**  
 To convert all lowercase characters in a string to uppercase and display the result.
@@ -258,6 +264,7 @@ int main()
 <img width="956" height="154" alt="image" src="https://github.com/user-attachments/assets/23c8d4a6-1580-408c-bdd8-d12a206d1d80" />
 
 **Result:**
+
 The program converts all lowercase letters in the entered string to uppercase and displays the resulting string.
 ---
 
